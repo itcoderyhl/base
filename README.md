@@ -11,7 +11,7 @@
 
 ## 使用技术
 
-java、swing、mysql
+java、swing、mysql gui图形化界面
 
 ## 环境介绍
 
