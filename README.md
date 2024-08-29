@@ -20,3 +20,8 @@ java、swing、mysql
 - MySQL5.6+
 
 ## 运行截图：
+
+![](https://github.com/itcoderyhl/base/blob/master/images/1.png)
+![](https://github.com/itcoderyhl/base/blob/master/images/2.png)
+![](https://github.com/itcoderyhl/base/blob/master/images/3.png)
+![](https://github.com/itcoderyhl/base/blob/master/images/4.png)
